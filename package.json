@@ -1,7 +1,7 @@
 {
   "name": "flowers",
   "version": "0.1.0",
-  "homepage": ".",
+  "homepage": "https://azizr.github.io/flower/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
