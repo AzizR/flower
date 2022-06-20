@@ -1,0 +1,206 @@
+[
+	{
+		"id": 16,
+		"photo": "pansy_blue_shades.jpg",
+		"description": "Compact mounds of colorful dainty flowers, good for window boxes. Fertile well drained soil.",
+		"price": 3.99
+	},
+	{
+		"id": 4,
+		"photo": "mona_lavender.jpg",
+		"description": "Quick-growing, herbaceous, shrub reaching up to 30 inches in height, forming a rounded, dense bush.",
+		"price": 5.99
+	},
+	{
+		"id": 17,
+		"photo": "yellow_pansy.jpg",
+		"description": "Compact mounds of colorful dainty flowers, good for window boxes. Fertile well drained soil.",
+		"price": 3.99
+	},
+	{
+		"id": 1,
+		"photo": "california_snow.jpg",
+		"description": "Large double. Good grower, heavy bloomer. Early to mid-season, acid loving plants. Plant in moist well drained soil with pH of 4.0-5.5.",
+		"price": 15.99
+	},
+	{
+		"id": 8,
+		"photo": "rosa_iceberg.jpg",
+		"description": "Deep purple colored flowers bushy rounded growth habit to 3 feet tall. Plant in full sun. Water regularly.",
+		"price": 22.99
+	},
+	{
+		"id": 19,
+		"photo": "dianthus.jpg",
+		"description": "They thrive in fertile, fast draining, slightly alkaline (pH 6.75) soil. Avoid overwatering.",
+		"price": 5.99
+	},
+	{
+		"id": 20,
+		"photo": "bronze_mums.jpg",
+		"description": "Chrysanthemums respond to plenty of food and moisture, and prefer full sun.",
+		"price": 9.99
+	},
+	{
+		"id": 28,
+		"photo": "aloe_vera.jpg",
+		"description": "Drought tolerant, well drained soil. Prefers full sun.",
+		"price": 30.99
+	},
+	{
+		"id": 27,
+		"photo": "red_cactus.jpg",
+		"description": "Add water until there is half inch of dry soil on the surface. Do not water again until the soil is completely dry.",
+		"price": 18.99
+	},
+	{
+		"id": 26,
+		"photo": "dusty_miller.jpg",
+		"description": "Grown primarily for its attractive silvergray foliage rather than its yellow flowers. Drought tolerant.",
+		"price": 10.99
+	},
+	{
+		"id": 30,
+		"photo": "string_of_pearls.jpg",
+		"description": "Locate it in a place where it is exposed to at least a few hours of direct sunlight.",
+		"price": 18.5
+	},
+	{
+		"id": 7,
+		"photo": "rosa_burgundy.jpg",
+		"description": "Deep purple colored flowers bushy rounded growth habit to 3 feet tall. Plant in full sun. Water regularly.",
+		"price": 22.99
+	},
+	{
+		"id": 21,
+		"photo": "armeria_allicaea.jpg",
+		"description": "Summer flowering, 12Ã¢â‚¬â€œ18Ã¢â‚¬Â high, likes full sun and well drained soil. Drought tolerant.",
+		"price": 7.99
+	},
+	{
+		"id": 18,
+		"photo": "phalaenopsis.jpg",
+		"description": "Choose the brightest windows in your house for your orchids, place on an humidity tray and spray regularly.",
+		"price": 25.99
+	},
+	{
+		"id": 12,
+		"photo": "flowering_kale.jpg",
+		"description": "Creamy-white centers, medium green outer foliage with flattened outer foliage.",
+		"price": 4.99
+	},
+	{
+		"id": 14,
+		"photo": "pincushion.jpg",
+		"description": "Cotula have very fragrant orange flowers that bloom in the middle of summer.",
+		"price": 5.99
+	},
+	{
+		"id": 13,
+		"photo": "penny_orange_jumpup.jpg",
+		"description": "Compact mounds of colorful dainty flowers, good for window boxes. Fertile well drained soil.",
+		"price": 4.99
+	},
+	{
+		"id": 32,
+		"photo": "mexican_fencepost_cactus.jpg",
+		"description": "The Mexican Fence Post will eventually reach 20 feet tall. Protect the growing tips with Styrofoam cups on the tops.",
+		"price": 55.99
+	},
+	{
+		"id": 6,
+		"photo": "bougainvillea.jpg",
+		"description": "Thorny woody vine scrambles over other plants with their hooked thorns. Pest free.",
+		"price": 10.99
+	},
+	{
+		"id": 3,
+		"photo": "haight_ashbury.jpg",
+		"description": "Blooms in summer, 20-35 inches high. Fertilize regularly for best results. Full sun, drought tolerant.",
+		"price": 12.99
+	},
+	{
+		"id": 25,
+		"photo": "white_wedding.jpg",
+		"description": "Chrysanthemums grow best and produce the most flowers if they are planted in full sunshine.",
+		"price": 9.99
+	},
+	{
+		"id": 23,
+		"photo": "agapanthus.jpg",
+		"description": "Easily grown, tolerant of drought and poor soil, flower and foliage improves with feeding. Full sun.",
+		"price": 8.99
+	},
+	{
+		"id": 2,
+		"photo": "princess_flower.jpg",
+		"description": "Beautiful large royal purple flowers adorn attractive satiny green leaves that turn orange\\/red in cold weather. Grows to up to 18 feet, or prune annually to shorten.",
+		"price": 33.99
+	},
+	{
+		"id": 9,
+		"photo": "bonsai.jpg",
+		"description": "They do not thrive indoors, where the light is too dim, and humidity too low, for them to grow properly.",
+		"price": 45.99
+	},
+	{
+		"id": 11,
+		"photo": "cymbidium.jpg",
+		"description": "The flowers last about ten weeks. They have a waxy texture and reach a height of more than 20 inches.",
+		"price": 14.99
+	},
+	{
+		"id": 33,
+		"photo": "mexican_golden_barrel_cactus.jpg",
+		"description": "Growing as a large roughly spherical globe, it may eventually reach over a meter in height after many years.",
+		"price": 25.99
+	},
+	{
+		"id": 5,
+		"photo": "camellia.jpg",
+		"description": "Slow growing, upright to spreading shrub. Oval, glossy, leaves and profuse winter to spring blooming flowers.",
+		"price": 15.99
+	},
+	{
+		"id": 31,
+		"photo": "lithops.jpg",
+		"description": "These plants blend in among the stones as a means of protection. Grazing animals would otherwise eat them.",
+		"price": 12.99
+	},
+	{
+		"id": 29,
+		"photo": "exotic_dancer.jpg",
+		"description": "Easy to care for, requiring watering only when theyÃ¢â‚¬â„¢re dry. They like bright but indirect light.",
+		"price": 20.99
+	},
+	{
+		"id": 15,
+		"photo": "pelargonium.jpg",
+		"description": "Well drained neutral to slightly acid soil, bright light. Do not over-fertilize or these flowers will lose scent.",
+		"price": 4.99
+	},
+	{
+		"id": 22,
+		"photo": "salvia.jpg",
+		"description": "Grows to 15 inches. The species is easy to grow from seeds or cuttings. This species prefers full sun.",
+		"price": 6.99
+	},
+	{
+		"id": 10,
+		"photo": "calibrachoa.jpg",
+		"description": "Blooms continuously from early spring to first frost. Full sun or part shade, moist well-drained soil.",
+		"price": 12.99
+	},
+	{
+		"id": 34,
+		"photo": "opuntia_cactus.jpg",
+		"description": "The plants should be kept almost completely dry during the winter months, once a month should be fine.",
+		"price": 16.99
+	},
+	{
+		"id": 24,
+		"photo": "iris_siberica.jpg",
+		"description": "These plants are very hardy, easy to grow, and increase readily. Average flower size is 3-4 inches in diameter.",
+		"price": 5.99
+	}
+]
